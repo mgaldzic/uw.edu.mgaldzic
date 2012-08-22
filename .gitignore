@@ -1,0 +1,13 @@
+bin/
+nbproject/
+tmp/
+*.tmp
+*.bak
+*.swp
+local.properties
+*~
+Thumbs.db
+Desktop.ini
+.DS_Store
+images/
+copy/
